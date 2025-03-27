@@ -12,3 +12,12 @@
 salsabilaqonita/salsabilaqonita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Github Statistic
+<p align="center">
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=salsabilaqonita&hide=stars,commits,prs,issues,contribs&show_icons=false&theme=algolia"/>
+</p>
+<p align="center">
+  <img height="100em" src="https://img.shields.io/badge/Grade-A%2B-blue?style=for-the-badge&logo=github"/>
+</p>
+
